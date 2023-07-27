@@ -4,7 +4,7 @@ module.exports = async (client) => {
     const { REST } = require('@discordjs/rest');
     const { Routes } = require('discord-api-types/v10');
 
-    const rest = new REST({ version: '10' }).setToken("MTA5Njc5NzY1NTM3NzY2MjAxMg.GjiVvj.5bFuZp9H7uoblc_jgkE2ZZI3iCHXthj3m8u-_4");
+    const rest = new REST({ version: '10' }).setToken("ALSO-BOT-TOKEN");
 
     (async () => {
         try {
