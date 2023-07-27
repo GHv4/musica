@@ -27,8 +27,8 @@ client.player = new DisTube(client, {
             parallel: true,
             emitEventsAfterFetching: false,
             api: {
-                clientId: "069cc074a84545c8828c78f9623c1c76",
-                clientSecret: "653eaee4828040ffbf1ed1161bc1b726"
+                clientId: "spotify-client-ID",
+                clientSecret: "spotify-client-secret"
             },
         })
     ],
