@@ -73,7 +73,7 @@ fs.readdir('./commands/', (err, files) => {
     })
 })
 
-client.login("MTA5Njc5NzY1NTM3NzY2MjAxMg.GjiVvj.5bFuZp9H7uoblc_jgkE2ZZI3iCHXthj3m8u-_4");
+client.login("BOT-TOKEN");
 
 // God, please forgive us, this is just to keep the bot online at all cost
 process.on("unhandledRejection", (reason, p) => {
